@@ -9,10 +9,11 @@ print("This is a new line")
 print("This is from the main branch -----")
 print("Line from dev branch")
 # Another line from dev
-<<<<<<< HEAD
+
 print("Hola from main")
-=======
+
 
 
 # NEWEST LINE FROM DEV RIGHT NOW
->>>>>>> dev
+
+print("NEEWWWW")
