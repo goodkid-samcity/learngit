@@ -17,6 +17,10 @@ print("Hola from main")
 # NEWEST LINE FROM DEV RIGHT NOW
 
 print("NEEWWWW")
+<<<<<<< HEAD
 
 
 # lalalalala
+=======
+# from github
+>>>>>>> 7d374fedb644e7d401d0ddc458f5cdf75972ee88
